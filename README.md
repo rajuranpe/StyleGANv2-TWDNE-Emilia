@@ -8,4 +8,4 @@ As source training data I used 500 Emilia faces from the web, auto-cropped the f
 This is done with NVIDIA's StyleGAN v2 by transfer-learning from Gwern's ThisWaifuDoesNotExist v3 for 200 kimgs on a RTX 2080 Ti. 
 I give thanks to Gwern for their pre-trained weights and helpful guide at https://www.gwern.net/Faces.
 
-The model checkpoint can be downloadedm from https://drive.google.com/drive/folders/1Ln2jbvYb-KWx848kN8iymgTtLKI9UMNQ?usp=sharing
+The model checkpoint can be downloaded from https://drive.google.com/drive/folders/1Ln2jbvYb-KWx848kN8iymgTtLKI9UMNQ?usp=sharing
