@@ -8,3 +8,5 @@ As source training data I used 500 Emilia faces from the web, auto-cropped the f
 I give thanks to Gwern for their pre-trained weights and helpful guide for data preprocessing at https://www.gwern.net/Faces.
 
 The model checkpoint can be downloaded from https://drive.google.com/drive/folders/1Ln2jbvYb-KWx848kN8iymgTtLKI9UMNQ?usp=sharing
+
+StyleGAN 2 GitHub page https://github.com/NVlabs/stylegan2
