@@ -5,7 +5,7 @@ As source training data I used 500 Emilia faces from the web, auto-cropped the f
 (but, as can be seen in the provided interpolation video at 0:39 at bottom-right, sometimes a half of someones face was left in the crop, most often Rem's 
 (this was also the case in the network I used to continue on)).
 
-I give thanks to Gwern for their pre-trained weights and helpful guide for data preprocessing at https://www.gwern.net/Faces.
+I give thanks to Gwern for their pre-trained weights.
 
 The model checkpoint can be downloaded from https://drive.google.com/drive/folders/1Ln2jbvYb-KWx848kN8iymgTtLKI9UMNQ?usp=sharing
 
